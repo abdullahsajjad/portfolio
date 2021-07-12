@@ -8,7 +8,7 @@ export default function Home() {
         <Layout>
             <section className={styles.header}>
                 <div>
-                    <h2>Design</h2>
+                    <h2>Plan</h2>
                     <h3>Develop & Deploy</h3>
                     <p>WordPress Developer based in Pakistan.</p>
                     <Link className={styles.btn} to="/projects">My Portfolio Projects</Link>
